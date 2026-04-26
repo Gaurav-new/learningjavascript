@@ -1,5 +1,3 @@
-console.log("This is my first Javascript program !")
-
 let locationName = "Pune";
 const userName = "Hitesh";
 
