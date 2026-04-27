@@ -35,7 +35,7 @@ console.log("========================================\n");
 let max = Number.MAX_SAFE_INTEGER;
 console.log("Max Safe Integer (Number): " + max + "\n");
 
-// Step 2: Adding values (observe precision issue)
+// Step 2: Adding values
 console.log("Using Number:");
 console.log("max + 1 = " + (max + 1));
 console.log("max + 2 = " + (max + 2));
